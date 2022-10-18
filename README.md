@@ -19,6 +19,9 @@ I'm 18 y.o. from Belarus
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=c++&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/HTML\CSS\JS-090909?style=for-the-badge&logo=c++&logoColor=2674f2)
+</br>
+![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/esedel)
