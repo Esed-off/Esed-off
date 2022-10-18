@@ -7,7 +7,7 @@ I'm 18 y.o. from Belarus
 
 
 ### My CV
-[Link to my CV]()
+[Link to my CV](https://github.com/Esed-off/MyPortfolio/blob/main/My%20CV/Egor%20Sedelnik%20Junior%20QA.pdf)
 ### My Portfolio
 [Link to my Portfolio](https://github.com/Esed-off/MyPortfolio)
 ### Languages and Tools
