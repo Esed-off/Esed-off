@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [Link to my CV]()
 
 
-### Language and Tools
+### Languages and Tools
 
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
